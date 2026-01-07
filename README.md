@@ -17,3 +17,4 @@ Hi, I'm Qillexia — I build fast, reliable interfaces and scalable systems.
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 ![PlatformIO](https://img.shields.io/badge/PlatformIO-F5822B?style=for-the-badge&logo=platformio&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
