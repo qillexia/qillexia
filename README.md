@@ -7,7 +7,6 @@ My development workflow is strengthened by solid experience in backend architect
 With solid experience in integrating hardware and software, RESTful APIs, and responsive design, I bring efficiency and innovation into every project. Beyond coding, I value clean architecture, performance optimization, and collaborative development.</p>
 
 ###
-
 <img align="right" height="200" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"  />
 
 <div align="left">
@@ -45,12 +44,6 @@ With solid experience in integrating hardware and software, RESTful APIs, and re
 </div>
 
 ###
-
-<div align="left">
-  <a href="URL_LINKEDIN_KAMU"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  /></a>
-  <a href="URL_INSTAGRAM_KAMU"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  /></a>
-  <a href="URL_DISCORD_KAMU"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  /></a>
-</div>
 
 <br clear="both">
 
