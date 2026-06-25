@@ -7,7 +7,6 @@ My development workflow is strengthened by solid experience in backend architect
 With solid experience in integrating hardware and software, RESTful APIs, and responsive design, I bring efficiency and innovation into every project. Beyond coding, I value clean architecture, performance optimization, and collaborative development.</p>
 
 ###
-<img align="right" height="200" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"  />
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
