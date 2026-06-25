@@ -49,11 +49,6 @@ With solid experience in integrating hardware and software, RESTful APIs, and re
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=qillexia&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/qillexia/qillexia/output/github-contribution-grid-snake.svg" alt="Snake animation" />
