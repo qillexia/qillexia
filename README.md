@@ -1,23 +1,69 @@
 # Qillexia
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&pause=1000&color=06B6D4&center=true&vCenter=true&width=500&lines=Building+fast%2C+reliable+interfaces;Developing+scalable+systems;Hardware+Enthusiast+%26+IoT" alt="Typing SVG" />
-</p>
+<p align="left">I’m Qillexia, a passionate Fullstack Developer and IoT Enthusiast with a relentless drive for building impactful digital and physical solutions. I specialize in crafting seamless web applications from frontend to backend using modern technologies like React, TypeScript, and Express.js, while also building hardware integrations with C/C++, Arduino, and ESP32.
 
-| Frontend | Backend & Database | Hardware & Tools |
-| :--- | :--- | :--- |
-| <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /> | <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" /> | <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" /> |
-| <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> | <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /> | <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" /> |
-| <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" /> | <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> | <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" /> |
-| <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" /> | <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" /> | <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" /> |
-| <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" /> | <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" /> | <img src="https://img.shields.io/badge/PlatformIO-F5822B?style=for-the-badge&logo=platformio&logoColor=white" /> |
-| | <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" /> | <img src="https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white" /> |
-| | <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" /> | |
+My development workflow is strengthened by solid experience in backend architectures (Python, Java, Kotlin, PHP) and Database platforms like Supabase and Firebase. I'm quick to learn new stacks, frameworks, and methodologies, which empowers me to deliver scalable and robust systems.
 
+With solid experience in integrating hardware and software, RESTful APIs, and responsive design, I bring efficiency and innovation into every project. Beyond coding, I value clean architecture, performance optimization, and collaborative development.</p>
 
-<br>
+###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=qillexia&show_icons=false&theme=transparent&hide_border=true&title_color=06B6D4&text_color=888888" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qillexia&layout=compact&theme=transparent&hide_border=true&title_color=06B6D4&text_color=888888" height="150" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=qillexia&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
+
+###
+
+<br clear="both">
+
+<img align="right" height="200" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"  />
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" height="40" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" height="40" alt="supabase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="40" alt="git logo"  />
+</div>
+
+###
+
+<div align="left">
+  <a href="URL_LINKEDIN_KAMU"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  /></a>
+  <a href="URL_INSTAGRAM_KAMU"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  /></a>
+  <a href="URL_DISCORD_KAMU"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  /></a>
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/qillexia/qillexia/output/snake.svg" alt="Snake animation" />
+
+###
