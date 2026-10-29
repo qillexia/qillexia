@@ -32,7 +32,7 @@
 
   <img
     src="https://skillicons.dev/icons?i=php,python,supabase,firebase,cpp,arduino,git"
-    height="48"
+    height="35"
     alt="Backend, database, and IoT technologies"
   />
 
