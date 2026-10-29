@@ -21,15 +21,11 @@
 <h3 align="left">Tech Stack</h3>
 
 <div align="left">
-
-  <img src="https://skillicons.dev/icons?i=ts,js,react,tailwind" height="48" alt="Frontend technologies" />
-
-  <img src="https://skillicons.dev/icons?i=kotlin,flutter,express,php" height="48" alt="Mobile and backend technologies" />
-
-  <img src="https://skillicons.dev/icons?i=python,supabase,firebase" height="48" alt="Backend and database technologies" />
-
-  <img src="https://skillicons.dev/icons?i=cpp,arduino,git" height="48" alt="IoT and development tools" />
-
+  <img
+    src="https://skillicons.dev/icons?i=ts,js,react,tailwind,kotlin,flutter,express,php,python,supabase,firebase,cpp,arduino,git"
+    height="48"
+    alt="Tech Stack"
+  />
 </div>
 
 ###
