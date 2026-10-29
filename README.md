@@ -27,12 +27,10 @@
     height="48"
     alt="Frontend and mobile technologies"
   />
-
   <br />
-
   <img
     src="https://skillicons.dev/icons?i=php,python,supabase,firebase,cpp,arduino,git"
-    height="35"
+    height="48"
     alt="Backend, database, and IoT technologies"
   />
 
